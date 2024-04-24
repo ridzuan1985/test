@@ -1,2 +1,3 @@
 test
-2nd phase
+2nd phase - git pull
+3 phase
